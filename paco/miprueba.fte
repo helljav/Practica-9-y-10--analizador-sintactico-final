@@ -4,12 +4,12 @@ programa primer_programase;
 	pruebita=10+20;
 
 	si (pruebita == 10) entonces
-	pruebita = 100;
+		pruebita = 100;
 	otro
-	imprime("lo siento man, que sad ");
+		imprime("lo siento man, que sad ");
 	
 	mientras (pruebita<=100) haz
-	pruebita = 100+1;
+		pruebita = 100+1;
 
 	imprime (pruebitas, "pruebitas como cadena :v", i*i);
 
